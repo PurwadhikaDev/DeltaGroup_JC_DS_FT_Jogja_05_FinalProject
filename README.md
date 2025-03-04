@@ -123,7 +123,7 @@ To run this project, you need the following Python libraries:
 ## Looker Studio
 
 https://lookerstudio.google.com/reporting/f5702643-aff5-46c9-bbe6-c3db43013ce4
-![Hotel Booking Demand](images/LookerStudio.png)
+![Hotel Booking Demand](LookerStudio.png)
 
 
 ## Deploy Model (Streamlit)
