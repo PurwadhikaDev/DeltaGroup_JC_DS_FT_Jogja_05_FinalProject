@@ -13,7 +13,9 @@ LisGarve City & Resort Hotel in Portugal is experiencing a significant drop in r
 ## Goals
 
 1.⁠ ⁠*Identify Customer Characteristics Likely to Cancel Bookings*: Analyze the data to understand patterns and factors that lead to cancellations.
+
 2.⁠ ⁠*Develop Targeted Marketing Programs*: Create marketing strategies aimed at high-risk customers, such as offering incentives or special deals.
+
 3.⁠ ⁠*Increase Hotel Revenue*: Reduce financial losses due to cancellations by maximizing room occupancy and optimizing revenue management strategies.
 
 ## Dataset
